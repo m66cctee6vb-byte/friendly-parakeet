@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ZYRAXSMP77.aternos.me:",
+    "ip": "ZYRAXSMP77.aternos.me",
     "port": 35757,
     "version": "1.20.1",
     "try-creative": false
